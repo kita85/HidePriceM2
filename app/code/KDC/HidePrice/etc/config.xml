@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <hideprice>
+            <configuration>
+                <enablehideprice>1</enablehideprice>
+				<price_message>Login to see Price</price_message>
+				<price_text>Login</price_text>
+            </configuration>
+        </hideprice>
+    </default>
+	
+</config>
