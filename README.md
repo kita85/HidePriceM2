@@ -1,4 +1,4 @@
-# HidePriceM2
+## HidePriceM2
 Extension bug fixes for Hide Price M2 by magentobyte
 
 
